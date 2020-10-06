@@ -14,7 +14,7 @@ window.addEventListener('load',function(){
 let Astdata;
 
 function setup(){
-        createCanvas(400, 400);
+        createCanvas(840, 400);
         background('blue');
     }
 
