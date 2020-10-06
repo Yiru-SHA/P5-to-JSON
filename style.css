@@ -1,0 +1,10 @@
+canvas{
+    display: block;
+    margin: 10px auto;
+}
+
+.project__title{
+
+    font-size: 90px;
+    text-align: center;
+}
