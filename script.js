@@ -8,6 +8,7 @@ window.addEventListener('load',function(){
             console.log("I found it");
             Astdata=data;
         })
+    console.log("testing");
 });
 
 /*-------------p5-----------*/
@@ -22,7 +23,7 @@ function draw(){
     if(Astdata){
         for(let i=0; i<Astdata.number;i++){
             ellipse(100+(i*100),300,30);
-            
+
         }
     }else{
     console.log("Not Ready");
